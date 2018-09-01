@@ -1,0 +1,99 @@
+body
+{
+    background-color: ;
+}
+
+h1
+{
+    text-align: center;
+    position: relative;
+    
+}
+h1:after
+{
+    position: absolute;
+    height: 1px;
+    top: 50%;
+    right: 0px;
+    width: 40%;
+        
+    background-color: black;
+    content: ""
+}
+
+h1:before
+{
+    position: absolute;
+    height: 1px;
+    top: 50%;
+    left: 0px;
+    width: 40%;
+        
+    background-color: black;
+    content: ""
+}
+
+
+
+h2
+{
+     position: relative;
+    padding: 20px;
+    text-align:center;
+ background-color: ;
+    border: solid 3px #0591b1;
+    width: 10%;
+    padding: 30px;
+    border-bottom-width:7px;
+}
+
+
+
+h2:after
+{
+    content: "";
+    top:65px;
+    left: 30px;
+    background-color: #0591b1;
+    width: 5px;
+    height: 35px;
+    border: solid 10px #fff;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+.member
+{
+    width: 30%;
+    background-color: #09c;
+    border: solid 2px #fff;
+    position: relative
+}
+
+.member img
+{
+    width: 100%;
+}
+.member .caption
+{
+    color: black;
+    background-color: rgba(42,63,85,0.7);
+    position: absolute;
+    
+    
+}
