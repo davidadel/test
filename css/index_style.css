@@ -128,6 +128,36 @@
 /*services section end*/
 
 
+/*Gnana 
+#ops {
+  position: fixed;
+  top: 100px;
+  left: 0px;
+  z-index: 655677;
+}
+
+#ops ul li {
+  width: 25px;
+  height: 25px;
+  background-color: red;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.color-op {
+  background-color: #ccc;
+  border: solid 2px teal ;
+  padding: 7px;
+  float: left ;
+}
+
+#ops i {
+  background-color: teal ;
+  color: white ;
+  float: left ;
+  padding: 10px ;
+  cursor: pointer;
+}
 
 
 
